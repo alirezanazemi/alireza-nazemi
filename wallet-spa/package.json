@@ -15,7 +15,7 @@
     "fontsource-roboto": "^3.0.3",
     "jquery": "^3.4.1",
     "node-sass": "^4.14.1",
-    "oidc-client": "^1.8.2",
+    "oidc-client": "^1.11.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-bootstrap": "^0.25.0",
